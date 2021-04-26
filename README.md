@@ -26,3 +26,11 @@ PART-2 is for the Knowledge Embeddings used PyKeen pipeline to achieve RotatE, T
 5. [KGCreation_wiki_extraction_1_1b.ipynb](https://colab.research.google.com/drive/1VBBiy-PaIGbSpFZbGmsKiJutipZjgPXh?usp=sharing)
 
 ## PART-2 See the repo folders
+Contact me for the other half of code. 
+
+### Who do I talk to? ###
+### Details ###
+* Created on Wed Dec 28 19:06:18 2020
+* @author: shahzeb
+* IDE: Spyder(Python3.8)
+* sshah184@uottawa.ca
